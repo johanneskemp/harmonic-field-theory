@@ -8,7 +8,7 @@ Foundational manuscripts, mathematical derivations, and cosmological models for 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21206866.svg)](https://doi.org/10.5281/zenodo.21206866)
 
 * **Main Manuscript:** [`paper-1-baseline/hft_baseline_paper.pdf`](./paper-1-baseline/hft_baseline_paper.pdf)
-* **Supplemental Technical Appendices:** [`paper-1-baseline/HFT_Suppl.pdf`](./paper-1-supplemental/HFT_Suppl.pdf)
+* **Supplemental Technical Appendices:** [`paper-1-baseline/HFT_Suppl.pdf`](./paper-1-baseline/HFT_Suppl.pdf)
 * **Extract Appendix C (Leptonic Mass Cascade):** [`paper-1-baseline/leptonic_mass_cascade.pdf`](./paper-1-baseline/leptonic_mass_cascade.pdf)
 * **Official DOI:** [10.5281/zenodo.21206866](https://doi.org/10.5281/zenodo.21206866)
 * **Empirical Validation:** The full, automated Python verification suite utilizing raw LIGO and NANOGrav data is hosted in our dedicated computing repository: [HFT_LIGO_Coherence](https://github.com/johanneskemp/HFT_LIGO_Coherence).
