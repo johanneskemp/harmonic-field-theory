@@ -14,7 +14,7 @@ Foundational manuscripts, mathematical derivations, and cosmological models for 
 * **Empirical Validation:** The full, automated Python verification suite utilizing raw LIGO and NANOGrav data is hosted in our dedicated computing repository: [HFT_LIGO_Coherence](https://github.com/johanneskemp/HFT_LIGO_Coherence).
 
 ---
-
+zzzzzzzzzzzzz
 ### [Paper 2] An Electrodynamic Vacuum Medium Alternative to Spacetime Curvature
 * **Main Manuscript:** [`paper-2-cosmology/hft_cosmology_paper.pdf`](./paper-2-cosmology/hft_cosmology_paper.pdf)
 * **LaTeX Source:** [`paper-2-cosmology/hft_cosmology_paper.tex`](./paper-2-cosmology/hft_cosmology_paper.tex)
