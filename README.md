@@ -17,5 +17,6 @@ Foundational manuscripts, mathematical derivations, and cosmological models for 
 
 ### [Paper 2] An Electrodynamic Vacuum Medium Alternative to Spacetime Curvature
 * **Main Manuscript:** [`paper-2-cosmology/hft_cosmology_paper.pdf`](./paper-2-cosmology/hft_cosmology_paper.pdf)
+* **Official DOI:** [10.5281/zenodo.21209683](https://doi.org/10.5281/zenodo.21209683)
 * **LaTeX Source:** [`paper-2-cosmology/hft_cosmology_paper.tex`](./paper-2-cosmology/hft_cosmology_paper.tex)
 * *Status:* Pre-print under review.
